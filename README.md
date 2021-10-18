@@ -1,9 +1,8 @@
 # DataSprint_process
-Case técnico 
+## Technical test 
 
-Considerando que já tenha o python 3.8 instalado em sua máquina siga os passos para rodar a análise:
+- A resolução dos problemas propostos dos **quesitos mínimos** se encontram no arquivo **Analises.html** e **Analises.ipynb**.
+Para visualizar resultados abra o arquivo Analises.html clicando duas vezes.
+Caso queira editar ou gerar um .py, abra o arquivo Analises.ipynb pelo Jupyter 6.3.4
+- A resolução dos problemas propostos dos **quesitos bônus** estão em construção no arquivo **Analises_bonus.py**
 
-1) Baixe os arquivos com dados das viagens para uma parta do seu computador pelo arquivo pdf (technical_test_-_data_engineering.pdf)
-2) Baixe o arquivo code.py para a mesma pasta.
-3) Clique 2x code.py 
-Os gráficos serão salvos numa parta chama 'Output' a ser criada
