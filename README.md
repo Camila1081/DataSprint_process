@@ -1,8 +1,8 @@
 # DataSprint_process
-## Technical test 
+## Teste técnico 
 
-- A resolução dos problemas propostos dos **quesitos mínimos** se encontram no arquivo **Analises.html**, **Analises.ipynb** e **Analises.py**.
-Para visualizar resultados abra o arquivo Analises.html clicando duas vezes.
-Caso queira editar, abra o arquivo Analises.ipynb pelo Jupyter 6.3.0 ou Analises.py pelo Python 3.8.
-- A resolução dos problemas 1 e 2 propostos dos **quesitos bônus** se encontram no arquivo **Analises_bonus.py** (ainda tem 2 questões em aberto).
+- Os códigos para resolução dos problemas propostos dos **quesitos mínimos (1, 2, 3 e 4)** e **quesitos bônus (1 e 2)** se encontram nos arquivos: **Analises.ipynb** e **Analises.py**.
+Para melhor visualizar resultados abra o arquivo **Analises.html**.
+Os resultados foram gerados pelo Google Colab (https://colab.research.google.com/drive/10VMUOYY1bbtotoETciOqPux5BTzSiNtH?usp=sharing)
+
 
